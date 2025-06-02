@@ -1,4 +1,4 @@
 # Learning
 My First Git Repository.
 <br>
-Auther - Vikram Srivastava
+Auther - Vikram (Learning Gits)
